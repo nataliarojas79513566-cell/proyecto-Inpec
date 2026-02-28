@@ -1,0 +1,3 @@
+class ListaDoble:
+    def __init__(self):
+        self.cabeza = None
